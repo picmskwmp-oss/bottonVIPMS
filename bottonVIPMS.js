@@ -9,14 +9,14 @@
     tooltip: "VVIP SERVER",
 
     desktop: {
-      left: "18px",
+      left: "15px",
       bottom: "80px",
       width: "50px",
       height: "50px"
     },
 
     mobile: {
-      left: "18px",
+      left: "15px",
       bottom: "95px",
       width: "50px",
       height: "50px"
