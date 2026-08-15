@@ -12,7 +12,7 @@
   // CONFIG
   // =========================
   const CONFIG = {
-    link: "https://urlpsjshorten.com/vipclass",
+    link: "https://urlmsshorten.com/landingpagevipms",
     image: "http://plcl.me/images/qATRa.gif",
     tooltip: "VVIP SERVER",
 
