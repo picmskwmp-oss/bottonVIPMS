@@ -6,7 +6,7 @@
   const CONFIG = {
     link: "https://urlmsshorten.com/landingpagevipms",
     image: "http://plcl.me/images/qATRa.gif",
-    tooltip: "VVIP SERVER",
+    tooltip: "VIP SERVER",
 
     desktop: {
       left: "10px",
