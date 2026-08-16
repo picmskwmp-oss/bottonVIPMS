@@ -5,7 +5,7 @@
 
   const CONFIG = {
     link: "https://urlmsshorten.com/landingpagevipms",
-    image: "http://plcl.me/images/qATRa.gif",
+    image: "https://www.image2url.com/r2/default/gifs/1786877412858-25740a16-8b2a-4b3e-b0bf-2f732f0fa576.gif",
     tooltip: "VIP SERVER",
 
     desktop: {
